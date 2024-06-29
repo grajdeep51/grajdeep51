@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @grajdeep51
+- 👋 Hi, I’m Rajdeep!
 - 👀 I’m interested in Data Science, Machine Learning, and anything else Python!
 - 🌱 I’m currently learning how to code effectively and efficiently in Python (or any other coding language).
 - 💞️ I’m looking to collaborate on any types of personal projects (full-stack apps, mobile, machine learning, etc.)
